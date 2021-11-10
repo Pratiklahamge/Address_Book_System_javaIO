@@ -2,9 +2,11 @@ package com.bridgelabz;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.HashMap;
+
 /*
  * Purpose - To add multiple contacts an Address Book System
  */
+
 public class AddressBookSystem {
 
 	ArrayList<Contacts> arrayDetails = new ArrayList<Contacts>();
